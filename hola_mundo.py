@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def es_primo(n):
     if n < 2:
         return False
@@ -31,4 +30,4 @@ for numero in range(1, 1001):
         primos.append(numero)
 
 print(primos)
->>>>>>> 0e3df33d2c6f87e8d193c181b4738320f20f6e69
+
